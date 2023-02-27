@@ -1,0 +1,55 @@
+{   "articles":[
+    {
+    "source": {
+    "id": null,
+    "name": "The Economist"
+    },
+    "author": "The Economist",
+    "title": "AI-wielding tech firms are giving a new shape to modern warfare",
+    "description": "Ukraine is a testing ground for companies like Anduril and Palantir",
+    "url": "https://www.economist.com/business/2023/02/16/ai-wielding-tech-firms-are-giving-a-new-shape-to-modern-warfare",
+    "urlToImage": "https://www.economist.com/img/b/1280/720/90/media-assets/image/20230218_WBD000.jpg",
+    "publishedAt": "2023-02-16T15:33:50Z",
+    "content": "Much of the Western military hardware used in Ukraine sounds familiar to any student of 20th-century warfare: surface-to-air missiles, anti-tank weapons, rocket launchers and howitzers. But Ukraines … [+6277 chars]"
+    },
+    {
+    "source": {
+    "id": "vice-news",
+    "name": "Vice News"
+    },
+    "author": "Paul Blest, chloe angyal",
+    "title": "Tesla Fired Dozens of Autopilot Workers the Day After a Union Drive Started",
+    "description": "Fired employees at Elon Musk’s company say the  it’s retaliation for organizing.",
+    "url": "https://www.vice.com/en/article/5d37xx/tesla-fired-buffalo-union-workers",
+    "urlToImage": "https://video-images.vice.com/articles/63ee4a9be7f6db9c9277241a/lede/1676561269015-gettyimages-1459166551.jpeg?image-resize-opts=Y3JvcD0xeHc6MC43NzEyeGg7MHh3LDB4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
+    "publishedAt": "2023-02-16T15:33:31Z",
+    "content": "Tesla workers at a plant in Buffalo announced a union drive on Tuesday. On Wednesday, more than 30 of them were fired, including an organizing committee member, in what some workers are calling expli… [+4336 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investing.com"
+    },
+    "author": "Reuters",
+    "title": "Utah senator seeks allies in push to keep EVs out of U.S. biofuel program",
+    "description": "Utah senator seeks allies in push to keep EVs out of U.S. biofuel program",
+    "url": "https://www.investing.com/news/stock-market-news/utah-senator-seeks-allies-in-push-to-keep-evs-out-of-us-biofuel-program-3005868",
+    "urlToImage": "https://i-invdn-com.investing.com/news/LYNXNPEE901GX-ORUBS_L.jpg",
+    "publishedAt": "2023-02-16T15:32:23Z",
+    "content": "By Jarrett Renshaw\r\n(Reuters) - Republican U.S. Senator Mike Lee of Utah is trying to rally colleagues to sign a letter opposing the Biden administrations plan to include electric vehicles in the nat… [+2628 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Electrek"
+    },
+    "author": "Peter Johnson",
+    "title": "Toyota drops bZ4X prices in competitive China market, now starts at under $25K",
+    "description": "Toyota China is slashing prices on its first electric SUV, the bZ4X, in an effort to boost sales in an increasingly competitive market. In China, prices for the bZ4X now start at less than $25,000 (169,800 RMB).\n more…\nThe post Toyota drops bZ4X prices in com…",
+    "url": "https://electrek.co/2023/02/16/toyota-drops-bz4x-prices-below-25k-in-competitive-china-market/",
+    "urlToImage": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/02/Toyota-bZ4X-China-2.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-16T15:30:50Z",
+    "content": "Toyota China is slashing prices on its first electric SUV, the bZ4X, in an effort to boost sales in an increasingly competitive market. In China, prices for the bZ4X now start at less than $25,000 (1… [+2227 chars]"
+    }
+    ]
+}
